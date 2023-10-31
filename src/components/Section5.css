@@ -1,0 +1,15 @@
+.textImage{
+    height: 70vh;
+
+}
+
+.pageContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+.cardIn{
+    border: 1px solid black;
+}
+/* Default styles for desktop */
